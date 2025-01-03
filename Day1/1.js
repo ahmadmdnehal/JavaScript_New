@@ -1,31 +1,31 @@
-// let a = "Hello World";
+let a = "Hello World";
 
-// // for(let b = 0; b<a.length; b++){
-// //     console.log(a.charAt(b));
-// // }
+for(let b = 0; b<a.length; b++){
+    console.log(a.charAt(b));
+}
 
-// let ss =9876;
-// let bb = 3674654;
-// let name = "Nehal";
-// let names = "Nehlanbxhs";
+let ss =9876;
+let bb = 3674654;
+let name = "Nehal";
+let names = "Nehlanbxhs";
 
-// let ok='h';
-// let vshsjs='B';
+let ok='h';
+let vshsjs='B';
 
-// let isOk = true;
-// let isNotOk=false;
+let isOk = true;
+let isNotOk=false;
 
-// let oo=null;
+let oo=null;
 
-// let ans;
-// console.log(ans)
+let ans;
+console.log(ans)
 
 
-// let sym = Symbol("id");
-// console.log(sym);
+let sym = Symbol("id");
+console.log(sym);
 
-// let sy = Symbol('class');
-// console.log(sy);
+let sy = Symbol('class');
+console.log(sy);
 
 
 let person = {
